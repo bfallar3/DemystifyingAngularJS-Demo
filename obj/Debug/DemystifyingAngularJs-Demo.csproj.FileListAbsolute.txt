@@ -1,0 +1,6 @@
+c:\users\benjamin\Documents\Visual Studio 2013\Projects\DemystifyingAngularJs-Demo\DemystifyingAngularJs-Demo\bin\HTML5 Boiler Plate v4.3.dll.config
+c:\users\benjamin\Documents\Visual Studio 2013\Projects\DemystifyingAngularJs-Demo\DemystifyingAngularJs-Demo\bin\HTML5 Boiler Plate v4.3.dll
+c:\users\benjamin\Documents\Visual Studio 2013\Projects\DemystifyingAngularJs-Demo\DemystifyingAngularJs-Demo\bin\HTML5 Boiler Plate v4.3.pdb
+c:\users\benjamin\Documents\Visual Studio 2013\Projects\DemystifyingAngularJs-Demo\DemystifyingAngularJs-Demo\obj\Debug\DemystifyingAngularJs-Demo.csprojResolveAssemblyReference.cache
+c:\users\benjamin\Documents\Visual Studio 2013\Projects\DemystifyingAngularJs-Demo\DemystifyingAngularJs-Demo\obj\Debug\HTML5 Boiler Plate v4.3.dll
+c:\users\benjamin\Documents\Visual Studio 2013\Projects\DemystifyingAngularJs-Demo\DemystifyingAngularJs-Demo\obj\Debug\HTML5 Boiler Plate v4.3.pdb
